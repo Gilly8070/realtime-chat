@@ -18,3 +18,6 @@ io.on('connection', socket => {
         delete users[socket.id]
     })
 })
+
+
+    // "devStart": "nodemon server.js"
